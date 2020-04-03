@@ -8,17 +8,17 @@
 
 
 <p align="center">
-    <img src="assets\guia2">
+    <img src="assets\guia2.png">
 </p>
 
 
 <p align="center">
-    <img src="assets\guia3">
+    <img src="assets\guia3.png">
 </p>
 
 
 <p align="center">
-    <img src="assets\guia4">
+    <img src="assets\guia4.png">
 </p>
 
 
