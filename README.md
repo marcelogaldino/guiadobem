@@ -3,9 +3,8 @@
 
 
 <p align="center">
-    <img src="assets/guia1">
+    <img src="assets\guia1.png">
 </p>
-
 
 
 <p align="center">
