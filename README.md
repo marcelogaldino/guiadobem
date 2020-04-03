@@ -21,6 +21,10 @@
     <img src="assets\guia4.png">
 </p>
 
+<p align="center">
+    <img src="assets\guia5.png">
+</p>
+
 
 ### Dependencies
 
