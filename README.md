@@ -2,13 +2,15 @@
 
 
 
-<img src="\assets/guia1">
+<p align="center">
+    <img src="assets/guia1">
+</p>
 
 
 
-
-<img src="/assets/guia2">
-
+<p align="center">
+    <img src="/assets/guia2">
+</p>
 
 
 <p align="center">
